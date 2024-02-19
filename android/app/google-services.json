@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735960474643",
+    "project_id": "beepzz-a8509",
+    "storage_bucket": "beepzz-a8509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735960474643:android:8fb452a6be11b544e40be6",
+        "android_client_info": {
+          "package_name": "com.example.beepzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBou60y2iRc6rTLn1I0lfJW-0zfmQD2gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
